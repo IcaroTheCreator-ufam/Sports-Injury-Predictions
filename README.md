@@ -1,0 +1,1 @@
+Este repositório será dividido em 3 branchs secundárias, os códigos dos modelos feitos com os dados processados via Análise de importância, os que foram feitos com os dados processados com balanceamento pré-PCA e pós-PCA, os datasets utilizados ficarão na branch principal.
